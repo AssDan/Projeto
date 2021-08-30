@@ -1,4 +1,6 @@
-# Olá![Perfil](https://user-images.githubusercontent.com/89284120/131274217-0593ca02-8815-4926-9b54-623eb715ac48.jpg)
+# Olá 
+
+
 
 Graduado em tecnologia em fabricação mecânica e pós graduado em engenharia da qualidade. Experiência como montador de veículos.
 
