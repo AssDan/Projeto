@@ -26,3 +26,7 @@ Linguagem:
 
 HTML básico 
 CSS básico 
+
+Linkedin:
+
+https://www.linkedin.com/in/assis-daniel-sales-458570168/
