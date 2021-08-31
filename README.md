@@ -19,7 +19,7 @@ Ferramenta:
 
 Visual Studio Code no Windows 10.
 
-Linguagem: 
+Linguagens: 
 
 HTML básico 
 CSS básico 
