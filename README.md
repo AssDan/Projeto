@@ -1,19 +1,11 @@
-- Desafio Cadastro Pessoal -  Formação Tech
+- ITAU -  Formação Tech
 
 
 Autor:
-Assis Daniel Moreno Pereira de Freitas Sales
-CPF: 416.645.448/01
-RG: 47.786.799-6
-Endereço: Rua Doutor Granadeiro Guimarães,904
-Bairro: Quiririm
-Cidade: Taubaté
-Estado: SP
-CEP: 12043380
-Telefone Fixo: 1236863947
+Assis Daniel Moreno Pereira de Freitas Sales 
 Telefone Celular: 12996751990
 Sexo: Masculino
-Tipo de deficiência: deficiência auditiva
+Tipo de deficiência: Deficiência auditiva
 
 
 Descrição:
