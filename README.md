@@ -17,7 +17,7 @@ Conhecimentos avançado em informática, tais como, Windows, Softwares, e as pri
 
 Ferramenta:
 
-Visual Studio Code no Windows 10.
+Visual Studio Code com Windows 10.
 
 Linguagens: 
 
