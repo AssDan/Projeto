@@ -1,11 +1,11 @@
 - ITAU -  Formação Tech
 
 
-Autor:
-Assis Daniel Moreno Pereira de Freitas Sales 
-Telefone Celular: 12996751990
-Sexo: Masculino
-Tipo de deficiência: Deficiência auditiva
+Autor:<br>
+Assis Daniel M. P. de F. S.<br>
+Telefone Celular: 12996751990 <br>
+Sexo: Masculino <br>
+Tipo de deficiência: Deficiência auditiva <br>
 
 
 Descrição:
@@ -21,7 +21,7 @@ Visual Studio Code com Windows 10.
 
 Linguagens: 
 
-HTML básico 
+HTML básico <br>
 CSS básico 
 
 Linkedin:
