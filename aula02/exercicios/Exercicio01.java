@@ -7,5 +7,6 @@ public class Exercicio01 {
         System.out.println("15 - 7 = " + (15 - 7));
         System.out.println("15 * 7 = " + (15 * 7));
         System.out.println("15 / 7 = " + (15 / 7));
+        System.out.println("15 / 7 = " + (15 / 7));
     }
 }
