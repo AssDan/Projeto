@@ -5,7 +5,7 @@ public class Relogio {
     private int hora, minuto, segundo;
 
     Constructor
-    public Relogio(int hora, int minuto, int segundo) {
+    publice Relogio(int hora, int minuto, int segundo) {
         setHora(hora);
         setMinuto(minuto);
         this.segundo = segundo;
