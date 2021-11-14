@@ -4,7 +4,6 @@
 <strong>Autor:<strong> <br>
 
 Assis Daniel Moreno Pereira de Freitas S. <br>
-Telefone Celular: 12996751990 <br>
 Sexo: Masculino <br>
 Tipo de deficiência: Auditiva <br>
 
