@@ -11,8 +11,7 @@ Tipo de deficiência: Auditiva <br>
 <strong>Descrição:<strong>
 
 
-Graduado em tecnologia em fabricação mecânica e pós graduado em engenharia da qualidade. Experiência como montador de veículos.
-Conhecimentos avançado em informática, tais como, Windows, Softwares, e as principais ferramentas como, Word, Excel e PowerPoint.
+Graduado em tecnologia em fabricação mecânica e pós graduado em engenharia da qualidade. Experiência como Área de Desenvolvimento Web e Desenvolvimento de Sistemas no ITAU UNIBANCO após participação do programa de formação Tech. Eu estudo como desenvolvedor web na linguagem de programação. E também trabalhava com tecnologia na AWS.
 
 <strong>Ferramenta:<strong>
 
@@ -20,8 +19,9 @@ Visual Studio Code com Windows 10.
 
 <strong>Linguagens:<strong> 
 
-HTML <br>
-CSS 
+FrontEnd <br>
+Java
+AWS
 
 <strong>Linkedin:<strong>
 
