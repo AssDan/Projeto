@@ -1,4 +1,4 @@
-- ITAU -  Formação Tech
+
 
 
 <strong>Autor:<strong> <br>
@@ -20,8 +20,8 @@ Visual Studio Code com Windows 10.
 
 <strong>Linguagens:<strong> 
 
-HTML básico <br>
-CSS básico 
+HTML <br>
+CSS 
 
 <strong>Linkedin:<strong>
 
