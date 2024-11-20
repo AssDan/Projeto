@@ -19,7 +19,11 @@ Visual Studio Code com Windows 10.
 
 <strong>Linguagens:<strong> 
 
-FrontEnd <br>
+Front-End <br>
+HTML     <br>
+CSS      <br>
+JavaScript <br>
+Back-End   <br>
 Java     <br>
 AWS
 
