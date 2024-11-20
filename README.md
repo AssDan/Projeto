@@ -20,7 +20,7 @@ Visual Studio Code com Windows 10.
 <strong>Linguagens:<strong> 
 
 FrontEnd <br>
-Java
+Java     <br>
 AWS
 
 <strong>Linkedin:<strong>
