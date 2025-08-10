@@ -20,13 +20,10 @@ Visual Studio Code com Windows 10.
 <strong>Linguagens:<strong> 
 
 Front-End <br>
-HTML     <br>
-CSS      <br>
-JavaScript <br>
 Back-End   <br>
-Java     <br>
 AWS
 
 <strong>Linkedin:<strong>
 
 https://www.linkedin.com/in/assis-daniel-sales-458570168/
+
